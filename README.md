@@ -20,6 +20,10 @@
 - ⚡ Fun fact **Quidquid Latine Dictum Sit, Altum Videtur**
 
 ### Blogs posts
+
+<a href="https://dev.to/makowskid](https://medium.com/@makowskid/when-laravel-e-commerce-app-meets-ai-unleashing-the-power-of-sharpapi-in-10-use-cases-2d9b034dd156" target="blank">
+When Laravel/PHP E-commerce App Meets AI: Unleashing the Power of SharpAPI in 10 Use Cases
+</a>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
