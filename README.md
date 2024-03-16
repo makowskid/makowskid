@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/makowskid" target="blank"><img src="https://img.shields.io/twitter/follow/makowskid?logo=twitter&style=for-the-badge" alt="makowskid" /></a> </p>
 
-- 🔭 I’m currently working on [Careera](https://careera.io/)
-
-- 🌱 I’m currently learning **NuxtJS**
+- 🔭 I’m currently working on [Careera](https://careera.io/) - Next Generation Recruitment Platform, Fair, Unbiased, Accurate & Automated
+  
+- 🔭 I’m currently expanding [SharpAPI.com](https://SharpAPI.com/) - AI-powered Swiss Army Knife API for every software developer, save countless hours and supercharges any app with AI capabilities with just a couple of lines of code
 
 - 📝 I regularly write articles on [https://dawidmakowski.com/](https://dawidmakowski.com/)
 
