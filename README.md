@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Building tech teams**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/makowskid/](https://www.linkedin.com/in/makowski/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/makowski/](https://www.linkedin.com/in/makowski/)
 
 - ⚡ Fun fact **Quidquid Latine Dictum Sit, Altum Videtur**
 
