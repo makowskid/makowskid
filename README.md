@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/makowskid" target="blank"><img src="https://img.shields.io/twitter/follow/makowskid?logo=twitter&style=for-the-badge" alt="makowskid" /></a> </p>
 
-- 🔭 I’m currently working on [Careera](https://careera.io/) - Next Generation Recruitment Platform, Fair, Unbiased, Accurate & Automated
+- 🔭 I’m currently working on [Careera.AI](https://careera.ai/) - Next Generation Recruitment Platform, Fair, Unbiased, Accurate & Automated
   
-- 🔭 I’m currently expanding [SharpAPI.com](https://SharpAPI.com/) - AI-powered Swiss Army Knife API for every software developer, save countless hours and supercharges any app with AI capabilities with just a couple of lines of code
+- 🔭 I’m currently expanding [SharpAPI.com](https://SharpAPI.com/) - Precise AI automation, save countless hours and supercharges any app with AI capabilities with just a couple of lines of code
 
 - 📝 I regularly write articles on [https://dawidmakowski.com/](https://dawidmakowski.com/)
 
 - 💬 Ask me about **Building tech teams**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/makowskid/](https://www.linkedin.com/in/makowskid/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/makowskid/](https://www.linkedin.com/in/makowski/)
 
 - ⚡ Fun fact **Quidquid Latine Dictum Sit, Altum Videtur**
 
