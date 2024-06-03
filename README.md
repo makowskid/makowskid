@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently expanding [SharpAPI.com](https://SharpAPI.com/) - Precise AI automation, save countless hours and supercharges any app with AI capabilities with just a couple of lines of code
 
-- 📝 I regularly write articles on [https://dawidmakowski.com/](https://dawidmakowski.com/)
+- 📝 I regularly write articles on [dawidmakowski.com](https://dawidmakowski.com/), [Medium](https://medium.com/@makowskid/) & [dev.to](https://dev.to/makowskid)
 
 - 💬 Ask me about **Building tech teams**
 
@@ -24,7 +24,7 @@
 <li><a href="https://dev.to/makowskid/why-gpt-api-isnt-good-for-scaling-business-workflow-automation-38od" target="blank">
 Why GPT API Isn’t Good for Scaling Business Workflow Automation
 </a></li>
-<li><a href="https://dev.to/makowskid](https://medium.com/@makowskid/when-laravel-e-commerce-app-meets-ai-unleashing-the-power-of-sharpapi-in-10-use-cases-2d9b034dd156" target="blank">
+<li><a href="https://medium.com/@makowskid/when-laravel-e-commerce-app-meets-ai-unleashing-the-power-of-sharpapi-in-10-use-cases-2d9b034dd156" target="blank">
 When Laravel/PHP E-commerce App Meets AI: Unleashing the Power of SharpAPI in 10 Use Cases
 </a></li>
 <li><a href="https://dawidmakowski.com/en/2023/06/the-cto-tip-of-the-day-the-still-unconventional-art-of-hiring-software-engineers-show-me-your-code-%f0%9f%a7%90/" target="blank">
