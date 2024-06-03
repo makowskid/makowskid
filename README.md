@@ -20,10 +20,18 @@
 - ⚡ Fun fact **Quidquid Latine Dictum Sit, Altum Videtur**
 
 ### Blogs posts
-
-<a href="https://dev.to/makowskid](https://medium.com/@makowskid/when-laravel-e-commerce-app-meets-ai-unleashing-the-power-of-sharpapi-in-10-use-cases-2d9b034dd156" target="blank">
+<ul>
+<li><a href="https://dev.to/makowskid/why-gpt-api-isnt-good-for-scaling-business-workflow-automation-38od" target="blank">
+Why GPT API Isn’t Good for Scaling Business Workflow Automation
+</a></li>
+<li><a href="https://dev.to/makowskid](https://medium.com/@makowskid/when-laravel-e-commerce-app-meets-ai-unleashing-the-power-of-sharpapi-in-10-use-cases-2d9b034dd156" target="blank">
 When Laravel/PHP E-commerce App Meets AI: Unleashing the Power of SharpAPI in 10 Use Cases
-</a>
+</a></li>
+<li><a href="https://dawidmakowski.com/en/2023/06/the-cto-tip-of-the-day-the-still-unconventional-art-of-hiring-software-engineers-show-me-your-code-%f0%9f%a7%90/" target="blank">
+The CTO Tip of the Day: The (Still?) Unconventional Art of Hiring Software Engineers – Show Me Your Code! 🧐
+</a></li>
+</ul>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
