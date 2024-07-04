@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <ul>
+  <li>
+    <a href="https://dawidmakowski.com/en/2024/07/how-to-promote-your-self-made-laravel-package/" target="_blank">
+    How to Promote Your Self-Made Laravel Package
+    </a>
+  </li>
 <li><a href="https://dev.to/makowskid/why-gpt-api-isnt-good-for-scaling-business-workflow-automation-38od" target="blank">
 Why GPT API Isn’t Good for Scaling Business Workflow Automation
 </a></li>
