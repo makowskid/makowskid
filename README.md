@@ -22,6 +22,11 @@
 ### Blogs posts
 <ul>
   <li>
+    <a href="https://dawidmakowski.com/en/2024/07/prisoner-or-architect-the-mindset-of-a-coder/" target="_blank">
+    Prisoner or Architect: The Mindset of a Coder
+    </a>
+  </li>
+  <li>
     <a href="https://dawidmakowski.com/en/2024/07/how-to-promote-your-self-made-laravel-package/" target="_blank">
     How to Promote Your Self-Made Laravel Package
     </a>
