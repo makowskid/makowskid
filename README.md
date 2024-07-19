@@ -22,6 +22,21 @@
 ### Blogs posts
 <ul>
   <li>
+    <a href="https://dawidmakowski.com/en/2024/07/the-future-of-api-marketplaces-integrating-ai-powered-solutions/" target="_blank">
+    The Future of API Marketplaces: Integrating AI-Powered Solutions
+    </a>
+  </li>
+  <li>
+    <a href="https://dawidmakowski.com/en/2024/07/my-25-year-productivity-hack-simple-sexy/" target="_blank">
+    My 25-Year Productivity Hack: Simple & Sexy
+    </a>
+  </li>
+  <li>
+    <a href="https://dawidmakowski.com/en/2024/07/why-most-startups-faceplant-lets-look-at-some-data/" target="_blank">
+    Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀
+    </a>
+  </li>
+  <li>
     <a href="https://dawidmakowski.com/en/2024/07/prisoner-or-architect-the-mindset-of-a-coder/" target="_blank">
     Prisoner or Architect: The Mindset of a Coder
     </a>
