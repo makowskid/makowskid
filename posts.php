@@ -8,7 +8,7 @@ $feed = Feed::loadRss('https://dawidmakowski.com/en/feed/')->toArray();
 
 // Generate the list of blog posts
 $posts = '';
-foreach (array_slice($feed['item'], 0, 5) as $post) {
+foreach (array_slice($feed['item'], 0, 555) as $post) {
     $date   = date('d/m/Y', strtotime($post['pubDate']));
     $posts .= sprintf("\n* **[%s]** [%s](%s \"%s\")", $date, $post['title'], $post['link'], $post['title']);
 }
