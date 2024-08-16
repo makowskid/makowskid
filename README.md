@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid Makowski</h1>
 <h3 align="center">CTO, Founder & Builder with 25 Years of Experience Leading High-Performing Tech Teams & Delivering Innovative Solutions</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makowskid" alt="makowskid" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/makowskid" target="blank"><img src="https://img.shields.io/twitter/follow/makowskid?logo=twitter&style=for-the-badge" alt="makowskid" /></a> </p>
 
 - 🔭 I’m currently working on [Careera.AI](https://careera.ai/) - Next Generation Recruitment Platform, Fair, Unbiased, Accurate & Automated
