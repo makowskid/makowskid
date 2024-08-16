@@ -29,47 +29,6 @@
 - [My 25-Year Productivity Hack: Simple &amp; Sexy](https://dawidmakowski.com/en/2024/07/my-25-year-productivity-hack-simple-sexy/)
 <!-- BLOG-POST-LIST:END -->
 
-
-<ul>
-  <li>
-    <a href="https://dawidmakowski.com/en/2024/07/the-future-of-api-marketplaces-integrating-ai-powered-solutions/" target="_blank">
-    The Future of API Marketplaces: Integrating AI-Powered Solutions
-    </a>
-  </li>
-  <li>
-    <a href="https://dawidmakowski.com/en/2024/07/my-25-year-productivity-hack-simple-sexy/" target="_blank">
-    My 25-Year Productivity Hack: Simple & Sexy
-    </a>
-  </li>
-  <li>
-    <a href="https://dawidmakowski.com/en/2024/07/why-most-startups-faceplant-lets-look-at-some-data/" target="_blank">
-    Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀
-    </a>
-  </li>
-  <li>
-    <a href="https://dawidmakowski.com/en/2024/07/prisoner-or-architect-the-mindset-of-a-coder/" target="_blank">
-    Prisoner or Architect: The Mindset of a Coder
-    </a>
-  </li>
-  <li>
-    <a href="https://dawidmakowski.com/en/2024/07/how-to-promote-your-self-made-laravel-package/" target="_blank">
-    How to Promote Your Self-Made Laravel Package
-    </a>
-  </li>
-<li><a href="https://dev.to/makowskid/why-gpt-api-isnt-good-for-scaling-business-workflow-automation-38od" target="blank">
-Why GPT API Isn’t Good for Scaling Business Workflow Automation
-</a></li>
-<li><a href="https://medium.com/@makowskid/when-laravel-e-commerce-app-meets-ai-unleashing-the-power-of-sharpapi-in-10-use-cases-2d9b034dd156" target="blank">
-When Laravel/PHP E-commerce App Meets AI: Unleashing the Power of SharpAPI in 10 Use Cases
-</a></li>
-<li><a href="https://dawidmakowski.com/en/2023/06/the-cto-tip-of-the-day-the-still-unconventional-art-of-hiring-software-engineers-show-me-your-code-%f0%9f%a7%90/" target="blank">
-The CTO Tip of the Day: The (Still?) Unconventional Art of Hiring Software Engineers – Show Me Your Code! 🧐
-</a></li>
-</ul>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/makowskid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="makowskid" height="30" width="40" /></a>
