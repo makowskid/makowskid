@@ -17,7 +17,12 @@
 
 ### Blogs posts
 
-<!-- posts --><!-- /posts -->
+<!-- posts -->
+* **[16/08/2024]** [Dancing Through Life: Embracing the Rhythm of the Present Moment](https://dawidmakowski.com/en/2024/08/dancing-through-life-embracing-the-rhythm-of-the-present-moment/ "Dancing Through Life: Embracing the Rhythm of the Present Moment")
+* **[14/08/2024]** [ChatGPT is Bullshit: Why Your AI Buddy Might Be Bluffing](https://dawidmakowski.com/en/2024/08/chatgpt-is-bullshit-why-your-ai-buddy-might-be-bluffing/ "ChatGPT is Bullshit: Why Your AI Buddy Might Be Bluffing")
+* **[07/08/2024]** [AI APIs Transform Workflows: 10 Use Cases](https://dawidmakowski.com/en/2024/08/ai-apis-transform-workflows-10-use-cases/ "AI APIs Transform Workflows: 10 Use Cases")
+* **[19/07/2024]** [The Future of API Marketplaces: Integrating AI-Powered Solutions](https://dawidmakowski.com/en/2024/07/the-future-of-api-marketplaces-integrating-ai-powered-solutions/ "The Future of API Marketplaces: Integrating AI-Powered Solutions")
+* **[16/07/2024]** [My 25-Year Productivity Hack: Simple & Sexy](https://dawidmakowski.com/en/2024/07/my-25-year-productivity-hack-simple-sexy/ "My 25-Year Productivity Hack: Simple & Sexy")<!-- /posts -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
