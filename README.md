@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid Makowski</h1>
-<h3 align="center">CTO, Co-Founder & Builder with 20+ Years' Experience Leading High-Performing Tech Teams & Delivering Innovative Solutions</h3>
+<h3 align="center">CTO, Founder & Builder with 25 Years of Experience Leading High-Performing Tech Teams & Delivering Innovative Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makowskid&label=Profile%20views&color=0e75b6&style=flat" alt="makowskid" /> </p>
 
