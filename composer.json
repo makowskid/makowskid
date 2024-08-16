@@ -1,0 +1,8 @@
+{
+    "name": "makowskid/makowskid",
+    "description": "Personal GitHub Page",
+    "type": "project",
+    "require": {
+        "dg/rss-php": "^1.5"
+    }
+}
