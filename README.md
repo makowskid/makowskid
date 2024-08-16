@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid Makowski</h1>
 <h3 align="center">CTO, Founder & Builder with 25 Years of Experience Leading High-Performing Tech Teams & Delivering Innovative Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=makowskid&label=Profile%20views&color=0e75b6&style=flat" alt="makowskid" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makowskid" alt="makowskid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/makowskid" target="blank"><img src="https://img.shields.io/twitter/follow/makowskid?logo=twitter&style=for-the-badge" alt="makowskid" /></a> </p>
@@ -13,7 +11,7 @@
 
 - 📝 I regularly write articles on [dawidmakowski.com](https://dawidmakowski.com/), [Medium](https://medium.com/@makowskid/) & [dev.to](https://dev.to/makowskid)
 
-- 💬 Ask me about **Building tech teams**
+- 💬 Ask me about **Building tech teams and innovative products**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/makowski/](https://www.linkedin.com/in/makowski/)
 
