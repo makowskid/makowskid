@@ -20,6 +20,11 @@
 - ⚡ Fun fact **Quidquid Latine Dictum Sit, Altum Videtur**
 
 ### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <ul>
   <li>
     <a href="https://dawidmakowski.com/en/2024/07/the-future-of-api-marketplaces-integrating-ai-powered-solutions/" target="_blank">
