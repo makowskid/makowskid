@@ -18,6 +18,7 @@
 ### Blogs posts
 
 <!-- posts -->
+* **[29/08/2024]** [Can AI Code? Sure. Replace Us? Nah.](https://dawidmakowski.com/en/2024/08/can-ai-code-sure-replace-us-nah/ "Can AI Code? Sure. Replace Us? Nah.")
 * **[19/08/2024]** [“Will this matter in 5 years?”](https://dawidmakowski.com/en/2024/08/will-this-matter-in-5-years/ "“Will this matter in 5 years?”")
 * **[16/08/2024]** [Dancing Through Life: Embracing the Rhythm of the Present Moment](https://dawidmakowski.com/en/2024/08/dancing-through-life-embracing-the-rhythm-of-the-present-moment/ "Dancing Through Life: Embracing the Rhythm of the Present Moment")
 * **[14/08/2024]** [ChatGPT is Bullshit: Why Your AI Buddy Might Be Bluffing](https://dawidmakowski.com/en/2024/08/chatgpt-is-bullshit-why-your-ai-buddy-might-be-bluffing/ "ChatGPT is Bullshit: Why Your AI Buddy Might Be Bluffing")
@@ -26,8 +27,7 @@
 * **[16/07/2024]** [My 25-Year Productivity Hack: Simple & Sexy](https://dawidmakowski.com/en/2024/07/my-25-year-productivity-hack-simple-sexy/ "My 25-Year Productivity Hack: Simple & Sexy")
 * **[16/07/2024]** [Just Push the Wheelbarrow: A Procrastinator’s Guide](https://dawidmakowski.com/en/2024/07/just-push-the-wheelbarrow-a-procrastinators-guide/ "Just Push the Wheelbarrow: A Procrastinator’s Guide")
 * **[15/07/2024]** [Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀](https://dawidmakowski.com/en/2024/07/why-most-startups-faceplant-lets-look-at-some-data/ "Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀")
-* **[13/07/2024]** [Prisoner or Architect: The Mindset of a Coder](https://dawidmakowski.com/en/2024/07/prisoner-or-architect-the-mindset-of-a-coder/ "Prisoner or Architect: The Mindset of a Coder")
-* **[03/07/2024]** [How to Promote Your Self-Made Laravel Package](https://dawidmakowski.com/en/2024/07/how-to-promote-your-self-made-laravel-package/ "How to Promote Your Self-Made Laravel Package")<!-- /posts -->
+* **[13/07/2024]** [Prisoner or Architect: The Mindset of a Coder](https://dawidmakowski.com/en/2024/07/prisoner-or-architect-the-mindset-of-a-coder/ "Prisoner or Architect: The Mindset of a Coder")<!-- /posts -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
