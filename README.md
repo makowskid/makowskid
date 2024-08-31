@@ -27,7 +27,9 @@
 * **[16/07/2024]** [My 25-Year Productivity Hack: Simple & Sexy](https://dawidmakowski.com/en/2024/07/my-25-year-productivity-hack-simple-sexy/ "My 25-Year Productivity Hack: Simple & Sexy")
 * **[16/07/2024]** [Just Push the Wheelbarrow: A Procrastinator’s Guide](https://dawidmakowski.com/en/2024/07/just-push-the-wheelbarrow-a-procrastinators-guide/ "Just Push the Wheelbarrow: A Procrastinator’s Guide")
 * **[15/07/2024]** [Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀](https://dawidmakowski.com/en/2024/07/why-most-startups-faceplant-lets-look-at-some-data/ "Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀")
-* **[13/07/2024]** [Prisoner or Architect: The Mindset of a Coder](https://dawidmakowski.com/en/2024/07/prisoner-or-architect-the-mindset-of-a-coder/ "Prisoner or Architect: The Mindset of a Coder")<!-- /posts -->
+* **[13/07/2024]** [Prisoner or Architect: The Mindset of a Coder](https://dawidmakowski.com/en/2024/07/prisoner-or-architect-the-mindset-of-a-coder/ "Prisoner or Architect: The Mindset of a Coder")
+* **[03/07/2024]** [How to Promote Your Self-Made Laravel Package](https://dawidmakowski.com/en/2024/07/how-to-promote-your-self-made-laravel-package/ "How to Promote Your Self-Made Laravel Package")
+* **[03/06/2024]** [Why GPT API Isn’t Good for Scaling Business Workflow Automation](https://dawidmakowski.com/en/2024/06/why-gpt-api-isnt-good-for-scaling-business-workflow-automation/ "Why GPT API Isn’t Good for Scaling Business Workflow Automation")<!-- /posts -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
