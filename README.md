@@ -18,6 +18,7 @@
 ### Blogs posts
 
 <!-- posts -->
+* **[19/09/2024]** [The Power of Hate: Are Your Despises Truly Yours?](https://dawidmakowski.com/en/2024/09/the-power-of-hate-are-your-despises-truly-yours/ "The Power of Hate: Are Your Despises Truly Yours?")
 * **[17/09/2024]** [Wu Wei: How Alan Watts Taught Me to Stop Wrestling with Life and Start Riding the Wave](https://dawidmakowski.com/en/2024/09/wu-wei-how-alan-watts-taught-me-to-stop-wrestling-with-life-and-start-riding-the-wave/ "Wu Wei: How Alan Watts Taught Me to Stop Wrestling with Life and Start Riding the Wave")
 * **[29/08/2024]** [Can AI Code? Sure. Replace Us? Nah.](https://dawidmakowski.com/en/2024/08/can-ai-code-sure-replace-us-nah/ "Can AI Code? Sure. Replace Us? Nah.")
 * **[19/08/2024]** [“Will this matter in 5 years?”](https://dawidmakowski.com/en/2024/08/will-this-matter-in-5-years/ "“Will this matter in 5 years?”")
@@ -28,8 +29,7 @@
 * **[16/07/2024]** [My 25-Year Productivity Hack: Simple & Sexy](https://dawidmakowski.com/en/2024/07/my-25-year-productivity-hack-simple-sexy/ "My 25-Year Productivity Hack: Simple & Sexy")
 * **[16/07/2024]** [Just Push the Wheelbarrow: A Procrastinator’s Guide](https://dawidmakowski.com/en/2024/07/just-push-the-wheelbarrow-a-procrastinators-guide/ "Just Push the Wheelbarrow: A Procrastinator’s Guide")
 * **[15/07/2024]** [Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀](https://dawidmakowski.com/en/2024/07/why-most-startups-faceplant-lets-look-at-some-data/ "Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀")
-* **[13/07/2024]** [Prisoner or Architect: The Mindset of a Coder](https://dawidmakowski.com/en/2024/07/prisoner-or-architect-the-mindset-of-a-coder/ "Prisoner or Architect: The Mindset of a Coder")
-* **[03/07/2024]** [How to Promote Your Self-Made Laravel Package](https://dawidmakowski.com/en/2024/07/how-to-promote-your-self-made-laravel-package/ "How to Promote Your Self-Made Laravel Package")<!-- /posts -->
+* **[13/07/2024]** [Prisoner or Architect: The Mindset of a Coder](https://dawidmakowski.com/en/2024/07/prisoner-or-architect-the-mindset-of-a-coder/ "Prisoner or Architect: The Mindset of a Coder")<!-- /posts -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
