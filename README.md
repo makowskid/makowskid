@@ -18,6 +18,7 @@
 ### Blogs posts
 
 <!-- posts -->
+* **[08/11/2024]** [Top Strategies to Successfully Sell Your API](https://dawidmakowski.com/en/2024/11/top-strategies-to-successfully-sell-your-api/ "Top Strategies to Successfully Sell Your API")
 * **[19/09/2024]** [The Power of Hate: Are Your Despises Truly Yours?](https://dawidmakowski.com/en/2024/09/the-power-of-hate-are-your-despises-truly-yours/ "The Power of Hate: Are Your Despises Truly Yours?")
 * **[17/09/2024]** [Wu Wei: How Alan Watts Taught Me to Stop Wrestling with Life and Start Riding the Wave](https://dawidmakowski.com/en/2024/09/wu-wei-how-alan-watts-taught-me-to-stop-wrestling-with-life-and-start-riding-the-wave/ "Wu Wei: How Alan Watts Taught Me to Stop Wrestling with Life and Start Riding the Wave")
 * **[29/08/2024]** [Can AI Code? Sure. Replace Us? Nah.](https://dawidmakowski.com/en/2024/08/can-ai-code-sure-replace-us-nah/ "Can AI Code? Sure. Replace Us? Nah.")
@@ -28,8 +29,7 @@
 * **[19/07/2024]** [The Future of API Marketplaces: Integrating AI-Powered Solutions](https://dawidmakowski.com/en/2024/07/the-future-of-api-marketplaces-integrating-ai-powered-solutions/ "The Future of API Marketplaces: Integrating AI-Powered Solutions")
 * **[16/07/2024]** [My 25-Year Productivity Hack: Simple & Sexy](https://dawidmakowski.com/en/2024/07/my-25-year-productivity-hack-simple-sexy/ "My 25-Year Productivity Hack: Simple & Sexy")
 * **[16/07/2024]** [Just Push the Wheelbarrow: A Procrastinator’s Guide](https://dawidmakowski.com/en/2024/07/just-push-the-wheelbarrow-a-procrastinators-guide/ "Just Push the Wheelbarrow: A Procrastinator’s Guide")
-* **[15/07/2024]** [Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀](https://dawidmakowski.com/en/2024/07/why-most-startups-faceplant-lets-look-at-some-data/ "Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀")
-* **[13/07/2024]** [Prisoner or Architect: The Mindset of a Coder](https://dawidmakowski.com/en/2024/07/prisoner-or-architect-the-mindset-of-a-coder/ "Prisoner or Architect: The Mindset of a Coder")<!-- /posts -->
+* **[15/07/2024]** [Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀](https://dawidmakowski.com/en/2024/07/why-most-startups-faceplant-lets-look-at-some-data/ "Why Most Startups Faceplant: Let’s Look at Some Data 📊🚀")<!-- /posts -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
