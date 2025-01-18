@@ -40,8 +40,7 @@
 * **[25/11/2017]** [JustJoin.IT interview – Polish programmers in Singapore [video in Polish]](https://dawidmakowski.com/en/2017/11/justjoin-it-interview-in-polish/ "JustJoin.IT interview – Polish programmers in Singapore [video in Polish]")
 * **[03/09/2017]** [Speaker at the TERN 2017 conference](https://dawidmakowski.com/en/2017/09/speaker-at-the-tern-2017-conference/ "Speaker at the TERN 2017 conference")
 * **[28/09/2016]** [Innovation Symposium in Tokyo / 50 years of Singapore-Japan diplomatic ties, 2016](https://dawidmakowski.com/en/2016/09/innovation-symposium-in-tokyo/ "Innovation Symposium in Tokyo / 50 years of Singapore-Japan diplomatic ties, 2016")
-* **[16/02/2016]** [BeMyGuest as one of THE WORLD’S 50 MOST INNOVATIVE COMPANIES 2016 by Fast Company Magazine!](https://dawidmakowski.com/en/2016/02/bemyguest-as-one-of-the-worlds-50-most-innovative-companies-2016-by-fast-company-magazine/ "BeMyGuest as one of THE WORLD’S 50 MOST INNOVATIVE COMPANIES 2016 by Fast Company Magazine!")
-* **[12/10/2015]** [From Poland to Asia – Kontestacja.com interview](https://dawidmakowski.com/en/2015/10/singapur-indie-przeprowadzka-do-azji-wywiad-w-kontestacji/ "From Poland to Asia – Kontestacja.com interview")<!-- /posts -->
+* **[16/02/2016]** [BeMyGuest as one of THE WORLD’S 50 MOST INNOVATIVE COMPANIES 2016 by Fast Company Magazine!](https://dawidmakowski.com/en/2016/02/bemyguest-as-one-of-the-worlds-50-most-innovative-companies-2016-by-fast-company-magazine/ "BeMyGuest as one of THE WORLD’S 50 MOST INNOVATIVE COMPANIES 2016 by Fast Company Magazine!")<!-- /posts -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
