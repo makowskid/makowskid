@@ -18,6 +18,7 @@
 ### Blogs posts
 
 <!-- posts -->
+* **[12/02/2025]** [Simplicity, Microservices & Other Lies We Tell Ourselves](https://dawidmakowski.com/en/2025/02/simplicity-microservices-other-lies-we-tell-ourselves/ "Simplicity, Microservices & Other Lies We Tell Ourselves")
 * **[08/11/2024]** [Top Strategies to Successfully Sell Your API](https://dawidmakowski.com/en/2024/11/top-strategies-to-successfully-sell-your-api/ "Top Strategies to Successfully Sell Your API")
 * **[19/09/2024]** [The Power of Hate: Are Your Despises Truly Yours?](https://dawidmakowski.com/en/2024/09/the-power-of-hate-are-your-despises-truly-yours/ "The Power of Hate: Are Your Despises Truly Yours?")
 * **[17/09/2024]** [Wu Wei: How Alan Watts Taught Me to Stop Wrestling with Life and Start Riding the Wave](https://dawidmakowski.com/en/2024/09/wu-wei-how-alan-watts-taught-me-to-stop-wrestling-with-life-and-start-riding-the-wave/ "Wu Wei: How Alan Watts Taught Me to Stop Wrestling with Life and Start Riding the Wave")
