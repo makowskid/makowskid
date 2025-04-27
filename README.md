@@ -18,6 +18,7 @@
 ### Blogs posts
 
 <!-- posts -->
+* **[26/04/2025]** [Vibe Coding Is Fun—But Vibe Refactoring Pays the Bills](https://dawidmakowski.com/en/2025/04/vibe-coding-is-fun-but-vibe-refactoring-pays-the-bills/ "Vibe Coding Is Fun—But Vibe Refactoring Pays the Bills")
 * **[09/03/2025]** [Improving Software Development, One Tiny Kaizen Step at a Time](https://dawidmakowski.com/en/2025/03/improving-software-development-one-tiny-kaizen-step-at-a-time/ "Improving Software Development, One Tiny Kaizen Step at a Time")
 * **[12/02/2025]** [Simplicity, Microservices & Other Lies We Tell Ourselves](https://dawidmakowski.com/en/2025/02/simplicity-microservices-other-lies-we-tell-ourselves/ "Simplicity, Microservices & Other Lies We Tell Ourselves")
 * **[08/11/2024]** [Top Strategies to Successfully Sell Your API](https://dawidmakowski.com/en/2024/11/top-strategies-to-successfully-sell-your-api/ "Top Strategies to Successfully Sell Your API")
